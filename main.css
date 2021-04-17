@@ -1,0 +1,13 @@
+body {background-color: lightgreen;}
+
+.class1 {margin:5px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px;
+        background-color: lightskyblue;
+        border: 1px solid black;
+        padding: 10px 10px 10px 10px;
+        }
+
+#firstid {width: 600px;
+        height:60px;
+        border: 1px dashed black;}
